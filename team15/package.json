@@ -1,0 +1,22 @@
+{
+  "name": "team15",
+  "scripts": {
+    "type:check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "private": true,
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@botpress/client": "0.11.1",
+    "@botpress/sdk": "0.5.11",
+    "axios": "^1.6.7",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@botpress/cli": "^0.5.3",
+    "@types/node": "^18.19.15",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
+  }
+}
